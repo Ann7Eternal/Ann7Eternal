@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashaswi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me eternal.007~insta
 
 <!---
